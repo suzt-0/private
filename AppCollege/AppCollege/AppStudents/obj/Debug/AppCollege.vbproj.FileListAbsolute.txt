@@ -1,0 +1,24 @@
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\bin\Debug\MySql.Data.dll
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.vbprojAssemblyReference.cache
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.vbproj.GenerateResource.cache
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.vbproj.CoreCompileInputs.cache
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.vbproj.CopyComplete
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\bin\Debug\AppCollege.exe.config
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\bin\Debug\AppCollege.exe
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\bin\Debug\AppCollege.pdb
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\bin\Debug\AppCollege.xml
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.AboutBox1.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.frmuserreg.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.frmstudent_reg.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.frmuseredit.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.LoginForm1.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.MDIParent1.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.Resources.resources
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.exe
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.xml
+D:\NCIT\BCA VP VB.NET\AppCollege\AppStudents\obj\Debug\AppCollege.pdb
+C:\Users\ACER\Desktop\prj proposal\AppCollege\AppCollege\AppStudents\obj\Debug\AppCollege.vbproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\prj proposal\AppCollege\AppCollege\AppStudents\obj\Debug\AppCollege.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\prj proposal\AppCollege\AppCollege\AppStudents\obj\Debug\AppCollege.exe
+C:\Users\ACER\Desktop\prj proposal\AppCollege\AppCollege\AppStudents\obj\Debug\AppCollege.xml
+C:\Users\ACER\Desktop\prj proposal\AppCollege\AppCollege\AppStudents\obj\Debug\AppCollege.pdb
